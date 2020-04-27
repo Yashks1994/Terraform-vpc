@@ -9,5 +9,3 @@ https://yash.com
 print(a)
 
 Localhost
-
-New
